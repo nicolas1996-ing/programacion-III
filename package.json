@@ -1,0 +1,23 @@
+{
+  "name": "clase2.1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start:app-I": "node app.js",
+    "start:app-index": "node index.js",
+    "start:nicolas": "node index_ciaf.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nicolas1996-ing/programacion-III.git"
+  },
+  "keywords": [],
+  "author": "nicolas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nicolas1996-ing/programacion-III/issues"
+  },
+  "homepage": "https://github.com/nicolas1996-ing/programacion-III#readme"
+}
