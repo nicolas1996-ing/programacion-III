@@ -28,8 +28,6 @@ if (counter < 10) {
   mayor de edad cuando age es mayor o igual a 18 
 */
 
-
-
 // multiple else if
 let number = 10;
 if (number == 1) {
@@ -49,7 +47,6 @@ if (number == 1) {
 } else {
     console.log("No es un dia de la semana");
 }
-
 
 // using switch
 let day = 3;
